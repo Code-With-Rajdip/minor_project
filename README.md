@@ -99,7 +99,7 @@ Administrators can:
 ## ⚙️ Installation Guide
 
 1. Install XAMPP or any local server.
-2. Clone the repository: git clone https://github.com/yourusername/minor_project.git
+2. Clone the repository: git clone https://github.com/Code-with-Sun/minor_project.git
 3. Move the project folder to `htdocs`.
 4. Import the database file into phpMyAdmin.
 5. Update database credentials in the configuration file.
