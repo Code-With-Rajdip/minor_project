@@ -124,9 +124,16 @@ Administrators can:
 
 ---
 
-## 👤 Author
+## 👤 Author [Team - 1(Alpha)]
 
-**Sundar Samanta**  
+#   **Boys**                        **Girls** 
+**Sundar Samanta**              **Bristi Mallick** 
+**Chinmoy Saini**               **Tanushree Sing Modak**  
+**Pradip Mondal**               **Suparna Mallick** 
+**Rajdip Das** 
+**Arkadip Roy** 
+**Chinmoy Mondal**
+
 Diploma Project – Minor Project  
 Real-Time Civic Issue Reporting Platform
 
